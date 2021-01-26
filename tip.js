@@ -39,3 +39,11 @@ document.getElementById('rs').style.display = "none";
 document.getElementById('btn').onclick = function(){
     calculation();
 };
+
+function reset(){
+    window.location.reload();
+}
+
+document.getElementById('reset').onclick = function () {
+    reset();
+}

@@ -76,3 +76,10 @@ select{
 #dollar{
 font-weight: bold;
 }
+
+#reset{
+    margin-bottom: 15px;
+    background-color: #e71d36;
+    border: #fdfffc 3px solid;
+    margin-left: 20px;
+}
